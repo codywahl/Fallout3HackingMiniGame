@@ -1,0 +1,7 @@
+C:\Users\Cody.Wahl\Documents\GitHub\Fallout3HackingMiniGame\Fallout3HackingMiniGame\Fallout3HackingMiniGameTest\bin\Debug\Fallout3HackingMiniGameTest.dll
+C:\Users\Cody.Wahl\Documents\GitHub\Fallout3HackingMiniGame\Fallout3HackingMiniGame\Fallout3HackingMiniGameTest\bin\Debug\Fallout3HackingMiniGameTest.pdb
+C:\Users\Cody.Wahl\Documents\GitHub\Fallout3HackingMiniGame\Fallout3HackingMiniGame\Fallout3HackingMiniGameTest\bin\Debug\Fallout3HackingMiniGame.exe
+C:\Users\Cody.Wahl\Documents\GitHub\Fallout3HackingMiniGame\Fallout3HackingMiniGame\Fallout3HackingMiniGameTest\bin\Debug\Fallout3HackingMiniGame.pdb
+C:\Users\Cody.Wahl\Documents\GitHub\Fallout3HackingMiniGame\Fallout3HackingMiniGame\Fallout3HackingMiniGameTest\obj\Debug\Fallout3HackingMiniGameTest.csprojResolveAssemblyReference.cache
+C:\Users\Cody.Wahl\Documents\GitHub\Fallout3HackingMiniGame\Fallout3HackingMiniGame\Fallout3HackingMiniGameTest\obj\Debug\Fallout3HackingMiniGameTest.dll
+C:\Users\Cody.Wahl\Documents\GitHub\Fallout3HackingMiniGame\Fallout3HackingMiniGame\Fallout3HackingMiniGameTest\obj\Debug\Fallout3HackingMiniGameTest.pdb

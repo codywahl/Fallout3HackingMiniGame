@@ -1,0 +1,8 @@
+C:\Users\Cody.Wahl\Documents\GitHub\Fallout3HackingMiniGame\Fallout3HackingMiniGame\Fallout3HackingMiniGame\bin\Debug\Fallout3HackingMiniGame.exe.config
+C:\Users\Cody.Wahl\Documents\GitHub\Fallout3HackingMiniGame\Fallout3HackingMiniGame\Fallout3HackingMiniGame\bin\Debug\Fallout3HackingMiniGame.exe
+C:\Users\Cody.Wahl\Documents\GitHub\Fallout3HackingMiniGame\Fallout3HackingMiniGame\Fallout3HackingMiniGame\bin\Debug\Fallout3HackingMiniGame.pdb
+C:\Users\Cody.Wahl\Documents\GitHub\Fallout3HackingMiniGame\Fallout3HackingMiniGame\Fallout3HackingMiniGame\obj\Debug\Fallout3HackingMiniGame.csprojResolveAssemblyReference.cache
+C:\Users\Cody.Wahl\Documents\GitHub\Fallout3HackingMiniGame\Fallout3HackingMiniGame\Fallout3HackingMiniGame\obj\Debug\Fallout3HackingMiniGame.Properties.Resources.resources
+C:\Users\Cody.Wahl\Documents\GitHub\Fallout3HackingMiniGame\Fallout3HackingMiniGame\Fallout3HackingMiniGame\obj\Debug\Fallout3HackingMiniGame.csproj.GenerateResource.Cache
+C:\Users\Cody.Wahl\Documents\GitHub\Fallout3HackingMiniGame\Fallout3HackingMiniGame\Fallout3HackingMiniGame\obj\Debug\Fallout3HackingMiniGame.exe
+C:\Users\Cody.Wahl\Documents\GitHub\Fallout3HackingMiniGame\Fallout3HackingMiniGame\Fallout3HackingMiniGame\obj\Debug\Fallout3HackingMiniGame.pdb
